@@ -1,0 +1,26 @@
+# Anotações sobre o módulo de HTML5 e CSS3
+
+## Primeiros passos para desenvolvimento web
+
+ - Termos importantes sobre o desenvolvimento web:
+	- HTML
+	- CSS
+	- Javascript
+	- HTTP
+	- DNS
+	- URL
+	- Cookies
+	- Cache
+	- Spam
+ - Stack é o ambiente relacionado ao desenvolvimento de um software ou app
+ - Uma LP pode ser direcionada ao Frontend, Backend ou ambos
+ - Outros termos importantes
+	- Java
+	- Bootscrap
+	- Python
+	- C/C++/C#
+	- Ruby (on rails)
+	- PHP
+	- .NET
+	- Cache
+	- Código

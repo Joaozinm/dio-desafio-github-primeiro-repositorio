@@ -1,0 +1,17 @@
+# Anotações sobre Introdução ao Git/Github
+
+ - Sintaxe básica dos arquivos Markdown: https://www.markdownguide.org/basic-syntax/
+ - Comandos importantes do painel cmd (Windows):
+	cd: navegar entre os diretórios
+	dir: listar os arquivos no diretório
+	mkdir: criar um novo diretório
+	del/rmdir: excluir um diretório
+
+ - SHA1 é um Algoritmo de Encriptação de dados que possui 40 dígitos únicos.
+ - No Git possuimos BLOBS, TREES e COMMITS
+ - Comandos importantes no Git:
+	git init: iniciar o Git dentro do diretório
+	git add: mandar um arquivo modificado para a Staging Area
+	git commit ( -m ""): definir o arquivo e suas alterações novamente para "Unmodified" e mandar para o repositório Local
+	git push: mandar o arquivo de Repositório Local para o Repositório Remoto (Nuvem)
+	git pull: receber o arquivo do Repositório Remoto no Repositório Local.

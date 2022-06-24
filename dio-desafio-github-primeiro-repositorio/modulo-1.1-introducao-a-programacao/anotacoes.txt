@@ -1,0 +1,16 @@
+# Anotações sobre Introdução a Lógica de Programação
+
+ - O pensamento computacional pode ser utilizado em diversas áreas da vida, não apenas na tecnologia, pois é focado na resolução de problemas.
+ - No pensamento computacional temos alguns pilares importantes, são eles:
+	decomposição;
+	padrões;
+	abstração;
+	algoritmos;
+ - Os tipos de dados são: numéricos (inteiros ou reais), lógicos e caracteres.
+ - Dentro da programação existem estruturas importantes, algumas delas são as estruturas de repetição, estruturas condicionais e operadores, vetores e matrizes e funções, além de entrada e saída de dados.
+ - Funções são blocos de instruções que realizam tarefas específicas.
+ - Alan Turing foi o "Pai" da computação.
+ - Dentro do código fonte existe o processo de tradução e interpretação.
+ - No processo de tradução, o computador utiliza de um compilador para transformar a linguagem de alto nivel em uma linguagem de baixo nivel, compreendida por ele em binários.\
+ - No processo de interpretação o programa é executado diretamente pelo computador, podendo se tornar mais lento.
+
